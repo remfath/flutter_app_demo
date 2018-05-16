@@ -1,4 +1,4 @@
-# flutter_app_demo
+# About
 
 A Flutter application demo.
 
